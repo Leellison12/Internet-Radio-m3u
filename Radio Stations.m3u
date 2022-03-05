@@ -67,17 +67,17 @@ http://ice4.somafm.com/lush-128-aac
 http://ice4.somafm.com/covers-128-aac
 #EXTINF:0, - BBC Radio Norfolk
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_norfolk.m3u8
-#EXTINF:0, - BBC Radio One
+#EXTINF:0, - BBC Radio 1
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
-#EXTINF:0, - BBC Radio Two
+#EXTINF:0, - BBC Radio 2
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
-#EXTINF:0, - BBC Radio Three
+#EXTINF:0, - BBC Radio 3
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
-#EXTINF:0, - BBC Radio Fourfm
+#EXTINF:0, - BBC Radio 4
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
-#EXTINF:0, - BBC Radio Five Live
+#EXTINF:0, - BBC Radio 5 Live
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
-#EXTINF:0, - BBC Radio Five Live Sports Extra
+#EXTINF:0, - BBC Radio 5 Live Sports Extra
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
 #EXTINF:0, - BBC 6music
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
@@ -157,13 +157,13 @@ http://89.223.45.5:8000/next-flac
 http://89.223.45.5:8000/zed-flac
 #EXTINF:0, - Intense Radio
 http://secure.live-streams.nl:80/flac.flac
-#EXTINF:0, - Ceský Vltava
+#EXTINF:0, - CeskÃ½ Vltava
 http://amp.cesnet.cz:8000/cro3.flac
-#EXTINF:0, - Ceský D-dur
+#EXTINF:0, - CeskÃ½ D-dur
 http://amp.cesnet.cz:8000/cro-d-dur.flac
-#EXTINF:0, - Ceský Jazz
+#EXTINF:0, - CeskÃ½ Jazz
 http://amp.cesnet.cz:8000/cro-jazz.flac
-#EXTINF:0, - Ceský Wave
+#EXTINF:0, - CeskÃ½ Wave
 http://amp.cesnet.cz:8000/cro-radio-wave.flac
 #EXTINF:-131, - Radio CLUB 80
 http://ecuamedios.net:8050/live.ogg
