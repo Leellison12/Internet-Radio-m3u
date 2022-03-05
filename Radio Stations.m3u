@@ -157,13 +157,13 @@ http://89.223.45.5:8000/next-flac
 http://89.223.45.5:8000/zed-flac
 #EXTINF:0, - Intense Radio
 http://secure.live-streams.nl:80/flac.flac
-#EXTINF:0, - Ceský Vltava
+#EXTINF:0, - CeskÃ½ Vltava
 http://amp.cesnet.cz:8000/cro3.flac
-#EXTINF:0, - Ceský D-dur
+#EXTINF:0, - CeskÃ½ D-dur
 http://amp.cesnet.cz:8000/cro-d-dur.flac
-#EXTINF:0, - Ceský Jazz
+#EXTINF:0, - CeskÃ½ Jazz
 http://amp.cesnet.cz:8000/cro-jazz.flac
-#EXTINF:0, - Ceský Wave
+#EXTINF:0, - CeskÃ½ Wave
 http://amp.cesnet.cz:8000/cro-radio-wave.flac
 #EXTINF:-131, - Radio CLUB 80
 http://ecuamedios.net:8050/live.ogg
@@ -279,3 +279,5 @@ http://94.23.252.14:8227/stream
 http://91.121.104.139:9280/
 #EXTINF:0, - Park Radio Diss
 http://s32.myradiostream.com/:18756/listen.mp3
+EXTINF:0, - Heart Bristol 
+ice-sov.musicradio.com/HeartBristolMP3
